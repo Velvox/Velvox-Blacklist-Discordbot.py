@@ -14,7 +14,7 @@ A Discord bot for automatically banning users based on a database of banned user
 
 1. **Download the Bot Package**
 
-   Download the `.tar` package of the bot from the [releases page](https://github.com/Velvox-Cybersecurity/Velvox-Blacklist-Discordbot.py/releases) or import it in to the server.
+   Download the files from this repository.
 
 2. **Upload the Package to Velvox Gamehosting**
 
